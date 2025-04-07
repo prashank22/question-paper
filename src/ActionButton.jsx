@@ -7,7 +7,7 @@ const ActionButtons = ({ onAddQuestion, onSaveForm }) => {
         className="qp-floating-button qp-add-button"
         title="Add Question" 
         onClick={onAddQuestion}
-      >
+      > 
         +
       </button>
     </div>
